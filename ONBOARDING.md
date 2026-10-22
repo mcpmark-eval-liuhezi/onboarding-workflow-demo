@@ -3,3 +3,4 @@
 3. Create a feature branch for your change
 4. Open a pull request and request a review
 5. Merge only after review feedback is addressed
+6. Delete the branch after merge
