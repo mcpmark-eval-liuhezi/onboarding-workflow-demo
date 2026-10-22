@@ -1,2 +1,3 @@
 # onboarding-workflow-demo
-Demo repository for onboarding session: branch to reviewed pull request workflow
+
+This repository walks through the team contribution workflow, showing how a change goes from a feature branch to a reviewed pull request.
